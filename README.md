@@ -34,3 +34,9 @@ distrobox enter web-devel
 
 And that's it! You can now launch **vscode** and start working on your projects while being confidant that your
 environment will be completely portable
+
+## Take a look!
+
+![image](https://github.com/alexaib2002/podman-fedora-webdevel/assets/66980937/a0c3ce26-2807-4395-ba3e-0e5932764286)
+
+*A Visual Studio Code instance running a Node.js application, despite not having Node nor any of its dependencies installed in the host!*
